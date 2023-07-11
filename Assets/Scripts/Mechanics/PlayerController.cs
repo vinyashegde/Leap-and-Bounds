@@ -129,6 +129,11 @@ namespace Platformer.Mechanics
             targetVelocity = move * maxSpeed;
         }
 
+        public void MOve()
+        {
+            move.x = 5;
+        }
+
         public enum JumpState
         {
             Grounded,

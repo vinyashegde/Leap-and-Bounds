@@ -11,7 +11,7 @@ public class ItemController : MonoBehaviour
 
     private void Start()
     {
-        grid = FindObjectOfType<Grid>(); // Assumes you have a Grid component in the scene
+        grid = FindObjectOfType<Grid>(); 
     }
 
     private void OnMouseDown()
