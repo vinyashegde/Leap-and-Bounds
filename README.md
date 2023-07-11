@@ -9,6 +9,8 @@ A 2D platform based statergy game.
 
 Play web build here - https://play.unity.com/mg/other/webgl-builds-358318
 
+itch-page : https://vinyashegde.itch.io/leap-bounds
+
 There are objects that can be moved by dragging them!
 Try to figure out the game complete it !
 And Just reach the destination flag to win the game !!
